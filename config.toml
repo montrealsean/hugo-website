@@ -1,4 +1,4 @@
-title = "BalkanFest Montreal"
+title = "balkanfest-montreal"
 baseURL = "/hugo-website"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
